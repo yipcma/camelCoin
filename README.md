@@ -62,3 +62,4 @@ First, run
 truffle console
 ```
 
+then try out commands from play.js
