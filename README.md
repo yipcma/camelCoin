@@ -44,6 +44,10 @@ npm i
 
 ## Compile your smart contracts
 
+Before you compile make sure you are connecting to the right port in truffle.js
+Ganache is 7545
+Ganache-cli is 8545
+
 ```
 truffle compile
 ```
