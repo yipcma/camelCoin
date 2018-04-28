@@ -34,7 +34,7 @@ npm i -g truffle
 
 Install git if you don't have it at https://git-scm.com/downloads
 
-````
+```
 git clone https://github.com/yipcma/camelCoin.git
 cd camelCoin
 npm i
@@ -66,4 +66,4 @@ First, run
 truffle console
 ```
 
-then try out commands from play.js
+then try out commands from play.js in the interactive truffle console in the terminal.
