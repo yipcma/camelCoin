@@ -37,7 +37,7 @@ Install git if you don't have it at https://git-scm.com/downloads
 ```
 git clone https://github.com/yipcma/camelCoin.git
 cd camelCoin
-npm i
+npm i zeppelin-solidity
 ```
 
 # Play local blockchain and smart contract
