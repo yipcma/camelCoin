@@ -4,8 +4,9 @@ module.exports = {
     networks: {
         development: {
             host: "localhost",
-            port: 8545, // ganache default
-            network_id: "*" // ganache default
+            port: 8545, // ganache-cli default
+            port: 7545, // ganache default
+            network_id: "*"
         }
     }
 };
