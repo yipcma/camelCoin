@@ -67,3 +67,6 @@ truffle console
 ```
 
 then try out commands from play.js in the interactive truffle console in the terminal.
+
+### Disclaimer
+Materials present in this repo do not constitute any legal or financial advice. Do NOT deploy to mainnet.
